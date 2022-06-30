@@ -86,10 +86,10 @@ author:
   location         : "Munich, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=4iVouPYAAAAJ&hl=en"
-  email            : "ze.jiang@unsw.edu.au"
-  researchgate     : "https://www.researchgate.net/profile/Ze_Jiang3"
-  publons          : "https://publons.com/researcher/3963266/ze-jiang/"
+  googlescholar    : "https://scholar.google.com/citations?user=4smM4bAAAAAJ&hl=en"
+  email            : "qingyu.li@tum.de"
+  researchgate     : "https://www.researchgate.net/profile/Qingyu-Li-2"
+  #publons          : "https://publons.com/researcher/3963266/ze-jiang/"
   uri              : 
   bitbucket        :
   codepen          :
@@ -97,24 +97,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zejiang-unsw"
+  github           : "https://github.com/lqycrystal"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "zejiang"
-  orcid            : "http://orcid.org/0000-0002-3472-0829"
+  linkedin         : "www.linkedin.com/in/qingyu-li-59a971171"
+  #orcid            : "http://orcid.org/0000-0002-3472-0829"
   pinterest        :
   soundcloud       :
-  stackoverflow    : #"http://stackoverflow.com/users/123456/username"
+  #stackoverflow    : #"http://stackoverflow.com/users/123456/username"
   steam            :
   tumblr           :
-  twitter          : "ZeJiang3"
+  #twitter          : "ZeJiang3"
   vine             :
   weibo            :
   xing             :
-  youtube          : "UCDgVmJEzD5czbTlTdVVewKA"
+  #youtube          : "UCDgVmJEzD5czbTlTdVVewKA"
   wikipedia        :
       
 # Reading Files
