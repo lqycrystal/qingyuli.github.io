@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author: 
   name             : "Qingyu Li"
-  avatar           : "/images/photo.jpg"
+  avatar           : "/images/photo2.jpg"
   bio              : "Researcher in Technical University of Munich, expert in remote sensing and deep learning"
   location         : "Munich, Germany"
   employer         :
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "www.linkedin.com/in/qingyu-li-59a971171"
+  linkedin         : "qingyu-li-59a971171"
   orcid            : #"http://orcid.org/0000-0002-3472-0829"
   pinterest        :
   soundcloud       :
