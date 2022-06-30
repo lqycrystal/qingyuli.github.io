@@ -18,10 +18,10 @@ Name2 Name2:
   google_plus : "Name"
 
 Ze Jiang:
-  name             : "Ze Jiang"
-  avatar           : "profile.png"
-  bio              : "Ph.D. Candidate @UNSW, expert in statistical hydrology"
-  location         : "Sydney, Australia"
+  name             : "Qingyu Li"
+  avatar           : "/images/photo2.png"
+  bio              : "Ph.D. Candidate at Technical university of Munich, expert in remote sensing"
+  location         : "Munich, Germany"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
