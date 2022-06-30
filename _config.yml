@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author: 
   name             : "Qingyu Li"
-  avatar           : "photo.jpg"
-  bio              : "Researcher in WRC@UNSW, expert in statistical hydrology"
-  location         : "Sydney, Australia"
+  avatar           : "/images/photo.jpg"
+  bio              : "Researcher in Technical University of Munich, expert in remote sensing and deep learning"
+  location         : "Munich, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=4iVouPYAAAAJ&hl=en"
