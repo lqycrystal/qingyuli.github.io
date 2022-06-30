@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-This is Qingyu Li's personal homepage. Please also refer to my homepage in Technical University of Munich (https://www.asg.ed.tum.de/sipeo/team/qingyu-li/). 
+This is Qingyu Li's personal homepage. Please also refer to [my homepage in Technical University of Munich](https://www.asg.ed.tum.de/sipeo/team/qingyu-li/). 
 
 ## A short introduction
-I am a Research Associate in the chair of Data Science in Earth Observation, Techinical Univeristy of Munich (https://www.asg.ed.tum.de/sipeo/home/) working in the field of hydro-climatology. I received my Ph.D. in Water Resource Engineering from UNSW. During my Ph.D., I developed a new method, namely Wavelet System Prediction (WASP), which is able to predict sustained hydro-climatological changes. I received my B.Eng. in Environmental Engineering from Hohai University, China; I did my Joint M.Sc., named “EuroAquae - HydroInformatics and Water Management” under a partnership of five European universities (in Barcelona, Budapest, Cottbus, Newcastle/UK, and Nice). Before moving to Australia, I also worked in hydrological and crop modelling at Tropical Marine Science Institute of National University of Singapore for two years.
+I am a Research Associate in the chair of [Data Science in Earth Observation, Techinical Univeristy of Munich] (https://www.asg.ed.tum.de/sipeo/home/) working in the field of remote sensing. I submitted my Ph.D. thesis in June, 2022, and the topic is “Deep Learning for Building Footrpint Generation from Optical Imagery”. I received my B.Eng. in Photogrammetry and Remote Sensing from Wuhan University, China; I obtained my double Master Degree,which is ESPACE, TUM, Germany and  Photogrammetry and remote sensing, Wuhan University, China. 
 
 <b>Research Interests:</b>
-* Hydro-climatological modelling and forecasting
-* Climate change impact on the water cycle (e.g. floods and droughts)
-* Hydrology/Hydraulics and water quality numerical modelling
-* HydroInformatics and water management
+* Remote sensing image understanding
+* Urban analysis
+* Deep learning algorithms
+* Remote sensing application
 
 <b>Research Highlights:</b>
 * Development of [spectral transformation](https://doi.org/10.1029/2019WR026962) and its [application](https://doi.org/10.1016/j.jhydrol.2021.126816) in hydro-climatology
