@@ -11,7 +11,7 @@ redirect_from:
 This is Qingyu Li's personal homepage. Please also refer to [my homepage in Technical University of Munich](https://www.asg.ed.tum.de/sipeo/team/qingyu-li/). 
 
 ## A short introduction
-I am a Research Associate in the chair of [Data Science in Earth Observation, Techinical Univeristy of Munich] (https://www.asg.ed.tum.de/sipeo/home/) working in the field of remote sensing. I submitted my Ph.D. thesis in June, 2022, and the topic is “Deep Learning for Building Footrpint Generation from Optical Imagery”. I received my B.Eng. in Photogrammetry and Remote Sensing from Wuhan University, China; I obtained my double Master Degree,which is ESPACE, TUM, Germany and  Photogrammetry and remote sensing, Wuhan University, China. 
+I am a Research Associate in the chair of [Data Science in Earth Observation, Techinical Univeristy of Munich](https://www.asg.ed.tum.de/sipeo/home/) working in the field of remote sensing. I submitted my Ph.D. thesis in June, 2022, and the topic is “Deep Learning for Building Footrpint Generation from Optical Imagery”. I received my B.Eng. in Photogrammetry and Remote Sensing from Wuhan University, China; I obtained my double Master Degree,which is ESPACE, TUM, Germany and  Photogrammetry and remote sensing, Wuhan University, China. 
 
 <b>Research Interests:</b>
 * Remote sensing image understanding
@@ -26,9 +26,9 @@ I am a Research Associate in the chair of [Data Science in Earth Observation, Te
 * Development of a novel machine learning algorithm for [change detetction](https://www.ingentaconnect.com/contentone/asprs/pers/2017/00000083/00000002/art00013?crawler=true&mimetype=application/pdf)
 
 ## Selected Journal Publications
-Li, Qingyu, Yilei Shi, and Xiao Xiang Zhu. "Semi-supervised building footprint generation with feature and output consistency training." IEEE Transactions on Geoscience and Remote Sensing (2022). [link] (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9773314)
+Li, Qingyu, Yilei Shi, and Xiao Xiang Zhu. "Semi-supervised building footprint generation with feature and output consistency training." IEEE Transactions on Geoscience and Remote Sensing (2022). [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9773314)
 
-Li, Qingyu, Lichao Mou, Yuansheng Hua, Yilei Shi, and Xiao Xiang Zhu. "CrossGeoNet: A Framework for Building Footprint Generation of Label-Scarce Geographical Regions." International Journal of Applied Earth Observation and Geoinformation 111 (2022): 102824. [link] (https://www.sciencedirect.com/science/article/pii/S1569843222000267))
+Li, Qingyu, Lichao Mou, Yuansheng Hua, Yilei Shi, and Xiao Xiang Zhu. "CrossGeoNet: A Framework for Building Footprint Generation of Label-Scarce Geographical Regions." International Journal of Applied Earth Observation and Geoinformation 111 (2022): 102824. [link](https://www.sciencedirect.com/science/article/pii/S1569843222000267)
 
 Li, Qingyu, Lichao Mou, Yuansheng Hua, Yilei Shi, and Xiao Xiang Zhu. "Building footprint generation through convolutional neural networks with attraction field representation." IEEE Transactions on Geoscience and Remote Sensing 60 (2021): 1-17. [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9538384)
 
