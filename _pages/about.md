@@ -20,23 +20,23 @@ I am a Research Associate in the chair of [Data Science in Earth Observation, Te
 * Remote sensing application
 
 <b>Research Highlights:</b>
-* Development of [spectral transformation](https://doi.org/10.1029/2019WR026962) and its [application](https://doi.org/10.1016/j.jhydrol.2021.126816) in hydro-climatology
-* An open-source tool for improved system modelling: [Wavelet System Prediction (WASP)](https://doi.org/10.1016/j.envsoft.2020.104907)
-* Quantification of future changes in drought and [agricultural production](https://doi.org/10.1007/s00704-018-2617-z) under global warming
-* Development of [index-based drought insurance](https://doi.org/10.1108/AFR-02-2020-0020) for disaster risk transfer
+* Development of novel deep learning alogrithms for [building footprint generation](https://doi.org/10.1029/2019WR026962)
+* Development of a novel deep learning-based framework for [undocumented building detection](https://doi.org/10.1029/2019WR026962)
+* Development of a novel machine learning-based framework for [land cover classification](https://doi.org/10.1029/2019WR026962)
+* Development of a novel machine learning algorithm for [change detetction](https://doi.org/10.1029/2019WR026962)
 
 ## Selected Journal Publications
-Jiang, Z., Johnson, F., & Sharma, A. (2021). Why uncertainty matters? A new alternative to project drought for future climates. *submitted to Water Resources Research, under review*. 
+Li, Qingyu, Yilei Shi, and Xiao Xiang Zhu. "Semi-supervised building footprint generation with feature and output consistency training." IEEE Transactions on Geoscience and Remote Sensing (2022). [link] (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9773314)
 
-Jiang, Z., Sharma, A., & Johnson, F. (2021). Variable transformations in the spectral domain – Implications for hydrologic forecasting. *Journal of Hydrology*, 603, 126816. [link](https://doi.org/10.1016/j.jhydrol.2021.126816)
+Li, Qingyu, Lichao Mou, Yuansheng Hua, Yilei Shi, and Xiao Xiang Zhu. "CrossGeoNet: A Framework for Building Footprint Generation of Label-Scarce Geographical Regions." International Journal of Applied Earth Observation and Geoinformation 111 (2022): 102824. [link] (https://www.sciencedirect.com/science/article/pii/S1569843222000267))
 
-Jiang, Z., Rashid, M. M., Johnson, F., & Sharma, A. (2020). A wavelet-based tool to modulate variance in predictors: An application to predicting drought anomalies. *Environmental Modelling & Software*, 135, 104907. [link](https://doi.org/10.1016/j.envsoft.2020.104907)
+Li, Qingyu, Lichao Mou, Yuansheng Hua, Yilei Shi, and Xiao Xiang Zhu. "Building footprint generation through convolutional neural networks with attraction field representation." IEEE Transactions on Geoscience and Remote Sensing 60 (2021): 1-17. [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9538384)
 
-Jiang, Z., Sharma, A., & Johnson, F. (2020). Refining Predictor Spectral Representation Using Wavelet Theory for Improved Natural System Modeling. *Water Resources Research*, 56(3), e2019WR026962. [link](https://doi.org/10.1029/2019WR026962)
+Li, Qingyu, Yilei Shi, Xin Huang, and Xiao Xiang Zhu. "Building footprint generation by integrating convolution neural network with feature pairwise conditional random field (FPCRF)." IEEE Transactions on Geoscience and Remote Sensing 58, no. 11 (2020): 7502-7519. [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9082125)
 
-Jiang, Z., Sharma, A., & Johnson, F. (2019). Assessing the sensitivity of hydro-climatological change detection methods to model uncertainty and bias. *Advances in Water Resources*, 134, 103430. [link](https://doi.org/10.1016/j.advwatres.2019.103430)
+Li, Qingyu, Yilei Shi, Stefan Auer, Robert Roschlaub, Karin Möst, Michael Schmitt, Clemens Glock, and Xiaoxiang Zhu. "Detection of Undocumented Building Constructions from Official Geodata Using a Convolutional Neural Network." Remote Sensing 12, no. 21 (2020): 3537. [link](https://www.mdpi.com/2072-4292/12/21/3537)
 
-Jiang, Z., Raghavan, S. V., Hur, J., Sun, Y., Liong, S.-Y., Nguyen, V. Q., & Van Pham Dang, T. (2019). Future changes in rice yields over the Mekong River Delta due to climate change-Alarming or alerting? *Theoretical and Applied Climatology*, 137(1), 545-555. [link](https://doi.org/10.1007/s00704-018-2617-z)
+Li, Qingyu, Chunping Qiu, Lei Ma, Michael Schmitt, and Xiao Xiang Zhu. "Mapping the land cover of Africa at 10 m resolution from multi-source remote sensing data with Google Earth Engine." Remote Sensing 12, no. 4 (2020): 602. [link](https://www.mdpi.com/2072-4292/12/4/602)
 
 ## For more information
 More info about Ze Jiang can be found in [CV](https://zejiang-unsw.github.io/cv/) or [downloaded CV](http://zejiang-unsw.github.io/files/CV_Ze JIANG_UNSW_Eng.pdf).
