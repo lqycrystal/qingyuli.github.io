@@ -8,14 +8,14 @@ redirect_from:
 
 {% include base_path %}
 
-Download CV ([Eng](http://zejiang-unsw.github.io/files/CV_Ze JIANG_UNSW_Eng.pdf),[Chi](https://zejiang-unsw.github.io/files/CV_Ze JIANG_UNSW_Chi.pdf))
+Download CV ([Eng](https://github.com/lqycrystal/qingyuli.github.io/blob/main/files/qingyulicv.pdf))
 ======
 
 Education
 ======
-* B.Eng. in Environmental Engineering, Hohai University, Nanjing, China, 2012
-* M.Sc. in Hydro-Informatics and Water Management, Partnership of five European Universities, 2015
-* Ph.D. in Water Resources Engineering, University of New South Wales, Sydney, Australia, 2021
+* Bachelor degree in Remote Sensing Science and Technology, Wuhan University, China, 2015
+* Double Master degree in Earth Space Oriented Space Science and Technology at Technical University of Munich, Germany & Photogrammerty and Remote Sensing at Wuhan University, China, 2018
+* Ph.D. supervised by Prof.Xiaoxiang Zhu, Technical University of Munich, Germany, since 2019
 
 Research Interests
 ======
@@ -76,7 +76,7 @@ Teaching
   
 Languages
 ======
-Mandarin, English
+Chinese, English, German
 
 Skills & Expertise 
 ======
@@ -86,19 +86,16 @@ Skills & Expertise
 
 Service and leadership
 ======
-* Contribute to First Order Draft of IPCC 6th Assessment Report (FOD-WGII-AR6) as a group reviewer
-* Contribute to Second Order Draft of IPCC 6th Assessment Report (SOD-WGI-AR6) as a group reviewer
-* Reviewer Editor: 
-  + Frontiers in Water
+* Session chair for 2021 IEEE International Geoscience and Remote Sensing Symposium – WE1.O.3: Advanced Segmentation and Land Cover Mrthods for Optical Data
 * Reviewer for Scholarly Journals: 
-  + Journal of Hydrology
-  + Frontiers in Water
-  + International Journal of River Basin Management 
-  + Water
+  + IEEE Transactions on Geoscience and Remote Sensing
+  + International Journal of Applied Earth Observation and Geoinformation
+  + ISPRS Journal of Photogrammetry and Remote Sensing 
+  + Remote Sensing
+  + Photogrammetric Engineering & Remote Sensing
+  + IEEE Geoscience and Remote Sensing Letters
 
 Membership
 ======
-* American Geosciences Union (AGU)
-* Asia Oceania Geosciences Society (AOGS)
-* International Commission of Statistical Hydrology (ICSH-IAHS)
-* Modeling and Simulation Society of Australia and New Zealand (MSSANZ)
+* Institute of Electrical and Electronics Engineers (IEEE)
+
