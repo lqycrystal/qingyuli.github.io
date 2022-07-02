@@ -40,4 +40,4 @@ Li, Qingyu, Yilei Shi, Stefan Auer, Robert Roschlaub, Karin Möst, Michael Schmi
 Li, Qingyu, Chunping Qiu, Lei Ma, Michael Schmitt, and Xiao Xiang Zhu. "Mapping the land cover of Africa at 10 m resolution from multi-source remote sensing data with Google Earth Engine." Remote Sensing 12, no. 4 (2020): 602. [link](https://www.mdpi.com/2072-4292/12/4/602)
 
 ## For more information
-More info about Ze Jiang can be found in [CV](https://zejiang-unsw.github.io/cv/) or [downloaded CV](http://zejiang-unsw.github.io/files/CV_Ze JIANG_UNSW_Eng.pdf).
+More info about Qingyu Li can be found in [CV](https://lqycrystal.github.io/qingyuli.github.io/cv/) or [downloaded CV](https://github.com/lqycrystal/qingyuli.github.io/blob/main/files/qingyulicv.pdf).
