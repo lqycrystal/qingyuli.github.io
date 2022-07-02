@@ -14,47 +14,45 @@ Download CV ([Eng](https://github.com/lqycrystal/qingyuli.github.io/blob/main/fi
 Education
 ======
 * Bachelor degree in Remote Sensing Science and Technology, Wuhan University, China, 2015
-* Double Master degree in Earth Space Oriented Space Science and Technology at Technical University of Munich, Germany & Photogrammerty and Remote Sensing at Wuhan University, China, 2018
+* Double Master degree in Earth Space Oriented Space Science and Technology (ESPACE) at Technical University of Munich, Germany & Photogrammerty and Remote Sensing at Wuhan University, China, 2018
 * Ph.D. supervised by Prof.Xiaoxiang Zhu, Technical University of Munich, Germany, since 2019
 
 Research Interests
 ======
-* Hydro-climatological modelling and forecasting
-* Climate change impact on the water cycle (e.g. floods and droughts)
-* Hydrology/Hydraulics and water quality numerical modelling
-* HydroInformatics and water management
+* Remote sensing image understanding
+* Remote sensing application
+* Urban analysis
+* Deep learning algorithms
 
 Research Highlights
 ======
-* Development of [spectral transformation](https://doi.org/10.1029/2019WR026962) and its [application](https://doi.org/10.1016/j.jhydrol.2021.126816) in hydro-climatology
-* An open-source tool for improved system modelling: [Wavelet System Prediction (WASP)](https://doi.org/10.1016/j.envsoft.2020.104907)
-* Quantification of future changes in drought and [agricultural production](https://doi.org/10.1007/s00704-018-2617-z) under global warming
-* Development of [index-based drought insurance](https://doi.org/10.1108/AFR-02-2020-0020) for disaster risk transfer
+* Development of novel deep learning alogrithms for [building footprint generation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9082125)
+* Development of a novel deep learning-based framework for [undocumented building detection](https://www.mdpi.com/2072-4292/12/21/3537)
+* Development of a novel machine learning-based framework for [land cover classification](https://www.mdpi.com/2072-4292/12/4/602)
+* Development of a novel machine learning algorithm for [change detetction](https://www.ingentaconnect.com/contentone/asprs/pers/2017/00000083/00000002/art00013?crawler=true&mimetype=application/pdf)
 
 Work experience
 ======
-* Jun. 2021 - Current: Postdoctoral Research Fellow
-  * Water Research Centre, University of New South Wales, Sydney, Australia
+* Apr. 2019 - Current: Research associate
+  * Data Science In Earth Observation, Technical University of Munich, Munich, Germany
   * Duties included: 
-    + Bias characterisation and correction in Numerical Weather Prediction (NWP) models
-    + CMIP decadal prediction for rainfall forecasting
-  * Supervisors: Prof. [Ashish Sharma](https://scholar.google.com.au/citations?user=C_9ndbcAAAAJ&hl=en) and A/Prof. [Fiona Johnson](https://scholar.google.com.au/citations?user=PYu5v4YAAAAJ&hl=en)
+    + Development of frameworks for global building footprint generation, “So2Sat” project (European Research Coucil)
+    + Development of frameworks for undocumented building detection, "Investigation of building cases using AI" project, (Bavarian Agency for Digitization, High-Speed Internet and Surveying
+ 
 
-* Nov. 2015 - Feb. 2018: Research Assistant/Engineer
-  * Tropical Marine Science Institute, National University of Singapore, Singapore
+* Jun. 2017 - Mar. 2019: Research Assistant
+  * Data Science In Earth Observation, Technical University of Munich, Munich, Germany
   * Duties included: 
-    + Lead the Crop Modelling on Prediction of Rice Yield with DSSAT in Vietnam - Climate Change and Food Security Studies.
-	+ Involve in the Development of Index-based Drought Insurance for Sovereign Disaster Risk Transfer, World Bank Project. 
-	+ Involve in the Study on Impact of Climate Change on Inland and Coastal Flooding in Singapore, Public Utilities Board Project.
-	+ Involve in the Effectiveness of ABC Waters Design Features (Sponge Cities) for Runoff Quantity Control in Singapore, Public Utilities Board Project.
-  * Supervisor: Prof. [Shie-Yui Liong](https://scholar.google.com.au/citations?user=PvpaEVUAAAAJ&hl=en)
+    + Development of algorithms for SimGeoI, which is a framework that can do automated interpretation and alignment of optical and SAR remote sensing data
+    + Development of algorithms for local climate zone classification using Google Earth Engine
 
-* Mar. 2015 - Sep. 2015: Intern
-  * Ingenieurgesellschaft Prof. Dr. Sieker mbH, Berlin, Germany
+
+* Oct. 2017 - Mar. 2019: Intern
+  * VoxelGrid Gmbh, Munich, Germany
   * Duties included:
-    + Lead the Development of the Time-Area Function Model Based on QGIS Environment for Stormwater Management.
-    + Involve in a Project in Saudi Arabia on Flood Modelling and Mitigation of Hafar Al-Batin City.   
-  * Supervisor: Prof. Frank Molkenthin and Prof. Heiko Sieker
+    + Development of frameworks for floor material classification
+    + Development of frameworks for land cover classification   
+ 
 
 Publications
 ======
@@ -80,9 +78,9 @@ Chinese, English, German
 
 Skills & Expertise 
 ======
-* Statistical hydrology and water resource engineering.
-* Programming Skills: R, C/C++, and Python in both Unix and Windows systems.
-* Rich experience in modeling and GIS, using MIKE, SWMM, DSSAT, and QGIS.
+* Programming skills: Python, PyTorch, Matlab
+* Others: ENVI, QGIS, LaTex, GDAL
+
 
 Service and leadership
 ======
