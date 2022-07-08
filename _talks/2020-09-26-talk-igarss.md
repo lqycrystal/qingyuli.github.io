@@ -1,7 +1,7 @@
 ---
 title: "Instance segmentation of buildings using keypoints"
 collection: talks
-type: "Talk"
+type: "Oral presentation"
 permalink: /talks/2020-09-26-talk-igarss
 venue: "Online"
 date: 2020-09-26
