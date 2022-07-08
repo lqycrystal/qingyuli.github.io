@@ -3,7 +3,7 @@ title: "CrossGeoNet: A Framework for Building Footprint Generation of Label-Scar
 excerpt: "The open-source code is used for building footprint generation."
 collection: software
 ---
-<img src='/images/crossgeonet.png'><br/>
+<img src='https://lqycrystal.github.io/qingyuli.github.io/images/crossgeonet.png'><br/>
 
 ## Installation
 
