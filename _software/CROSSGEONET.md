@@ -3,7 +3,7 @@ title: "CrossGeoNet: A Framework for Building Footprint Generation of Label-Scar
 
 collection: software
 ---
-<img src='./images/crossgeonet.png'><br/>
+<img src='/images/crossgeonet.png'><br/>
 
 ## Installation
 
