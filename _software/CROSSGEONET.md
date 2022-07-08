@@ -1,6 +1,6 @@
 ---
 title: "CrossGeoNet: A Framework for Building Footprint Generation of Label-Scarce Geographical Regions"
-
+excerpt: "The open-source code is used for building footprint generation."
 collection: software
 ---
 <img src='/images/crossgeonet.png'><br/>
