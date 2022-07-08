@@ -1,6 +1,6 @@
 ---
 title: "Undocumented building detection"
-excerpt: ""Investigation of building cases using AI" project, (Bavarian Agency for Digitization, High-Speed Internet and Surveying) <br/><img src='/images/ubd.png'>"
+excerpt: "Investigation of building cases using AI project, (Bavarian Agency for Digitization, High-Speed Internet and Surveying) <br/><img src='https://lqycrystal.github.io/qingyuli.github.io/images/ubd.png'>"
 collection: portfolio
 ---
 
