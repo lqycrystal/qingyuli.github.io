@@ -1,6 +1,6 @@
 ---
 title: "Building footprint generation through convolutional neural networks with attraction field representation"
-
+excerpt: "The open-source code is used for building footprint generation."
 collection: software
 ---
 <img src='/images/afm.png'><br/>
