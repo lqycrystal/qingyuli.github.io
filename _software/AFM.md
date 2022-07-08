@@ -3,7 +3,7 @@ title: "Building footprint generation through convolutional neural networks with
 
 collection: software
 ---
-<img src='afm.png'><br/>
+<img src='/images/afm.png'><br/>
 
 
 ## Installation
