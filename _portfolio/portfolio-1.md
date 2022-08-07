@@ -1,6 +1,6 @@
 ---
 title: "Global building footprint generation"
-excerpt: "So2Sat project (European Research Coucil) <br/><img src='https://lqycrystal.github.io/qingyuli.github.io/images/gbfg.png'>"
+excerpt: "So2Sat project (European Research Council) <br/><img src='https://lqycrystal.github.io/qingyuli.github.io/images/gbfg.png'>"
 collection: portfolio
 ---
 
