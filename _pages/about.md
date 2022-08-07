@@ -22,11 +22,14 @@ I am a Research Associate in the chair of [Data Science in Earth Observation, Te
 
 <b>Research Highlights:</b>
 * Development of novel deep learning alogrithms for [building footprint generation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9082125)
-* Development of a novel deep learning-based framework for [undocumented building detection](https://www.mdpi.com/2072-4292/12/21/3537)
+* Development of a novel deep learning-based framework for [undocumented building detection](https://www.mdpi.com/2072-4292/12/21/3537) and  its application in [urban analysis](https://www.sciencedirect.com/science/article/pii/S156984322200111X)
 * Development of a novel machine learning-based framework for [land cover classification](https://www.mdpi.com/2072-4292/12/4/602)
 * Development of a novel machine learning algorithm for [change detetction](https://www.ingentaconnect.com/contentone/asprs/pers/2017/00000083/00000002/art00013?crawler=true&mimetype=application/pdf)
 
 ## Selected Journal Publications
+
+Li, Qingyu, Hannes Taubenböck, Yilei Shi, Stefan Auer, Robert Roschlaub, Clemens Glock, Anna Kruspe, and Xiao Xiang Zhu. "Identification of undocumented buildings in cadastral data using remote sensing: Construction period, morphology, and landscape." International Journal of Applied Earth Observation and Geoinformation 112 (2022): 102909.[link](https://www.sciencedirect.com/science/article/pii/S156984322200111X)
+
 Li, Qingyu, Yilei Shi, and Xiao Xiang Zhu. "Semi-supervised building footprint generation with feature and output consistency training." IEEE Transactions on Geoscience and Remote Sensing (2022). [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9773314)
 
 Li, Qingyu, Lichao Mou, Yuansheng Hua, Yilei Shi, and Xiao Xiang Zhu. "CrossGeoNet: A Framework for Building Footprint Generation of Label-Scarce Geographical Regions." International Journal of Applied Earth Observation and Geoinformation 111 (2022): 102824. [link](https://www.sciencedirect.com/science/article/pii/S1569843222000267)
