@@ -14,7 +14,7 @@ Download CV ([Eng](https://github.com/lqycrystal/qingyuli.github.io/blob/main/fi
 Education
 ======
 * Bachelor degree in Remote Sensing Science and Technology, Wuhan University, China, 2015
-* Double Master degree in Earth Space Oriented Space Science and Technology (ESPACE) at Technical University of Munich, Germany & Photogrammerty and Remote Sensing at Wuhan University, China, 2018
+* Double Master degree in Earth Space Oriented Space Science and Technology (ESPACE) at Technical University of Munich, Germany & Photogrammetry and Remote Sensing at Wuhan University, China, 2018
 * Ph.D. supervised by Prof.Xiaoxiang Zhu, Technical University of Munich, Germany, since 2019
 
 Research Interests
@@ -84,7 +84,7 @@ Skills & Expertise
 
 Service and leadership
 ======
-* Session chair for 2021 IEEE International Geoscience and Remote Sensing Symposium – WE1.O.3: Advanced Segmentation and Land Cover Mrthods for Optical Data
+* Session chair for 2022 IEEE International Geoscience and Remote Sensing Symposium – WE3.O1: Image Segmentation and Mapping, 2021 IEEE International Geoscience and Remote Sensing Symposium – WE1.O.3: Advanced Segmentation and Land Cover Methods for Optical Data
 * Reviewer for Scholarly Journals: 
   + IEEE Transactions on Geoscience and Remote Sensing
   + International Journal of Applied Earth Observation and Geoinformation
