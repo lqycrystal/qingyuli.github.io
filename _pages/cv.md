@@ -84,7 +84,9 @@ Skills & Expertise
 
 Service and leadership
 ======
-* Session chair for 2022 IEEE International Geoscience and Remote Sensing Symposium – WE3.O1: Image Segmentation and Mapping, 2021 IEEE International Geoscience and Remote Sensing Symposium – WE1.O.3: Advanced Segmentation and Land Cover Methods for Optical Data
+* Session chair:
+  + 2022 IEEE International Geoscience and Remote Sensing Symposium – WE3.O1: Image Segmentation and Mapping
+  + 2021 IEEE International Geoscience and Remote Sensing Symposium – WE1.O.3: Advanced Segmentation and Land Cover Methods for Optical Data
 * Reviewer for Scholarly Journals: 
   + IEEE Transactions on Geoscience and Remote Sensing
   + International Journal of Applied Earth Observation and Geoinformation
