@@ -15,7 +15,7 @@ Education
 ======
 * Bachelor degree in Remote Sensing Science and Technology, Wuhan University, China, 2015
 * Double Master degree in Earth Space Oriented Space Science and Technology (ESPACE) at Technical University of Munich, Germany & Photogrammetry and Remote Sensing at Wuhan University, China, 2018
-* Ph.D. supervised by Prof.Xiaoxiang Zhu, Technical University of Munich, Germany, since 2019
+* Ph.D. supervised by Prof.Xiaoxiang Zhu, Technical University of Munich, Germany, 2022
 
 Research Interests
 ======
