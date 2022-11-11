@@ -11,7 +11,7 @@ redirect_from:
 This is Qingyu Li's personal homepage. Please also refer to [my homepage in Technical University of Munich](https://www.asg.ed.tum.de/sipeo/team/qingyu-li/). 
 
 ## A short introduction
-I am a Research Associate in the chair of [Data Science in Earth Observation, Technical University of Munich](https://www.asg.ed.tum.de/sipeo/home/) working in the field of remote sensing. I submitted my Ph.D. thesis in June, 2022, and the topic is “Deep Learning for Building Footrpint Generation from Optical Imagery”. I received my Bachelor degree in Remote Sensing Science and Technology from Wuhan University, China; I obtained my double Master Degree, which are (1) ESPACE, Technical University of Munich, Germany and (2) Photogrammetry and remote sensing, Wuhan University, China. 
+I am a Postdoctoral Researcher in the chair of [Data Science in Earth Observation, Technical University of Munich](https://www.asg.ed.tum.de/sipeo/home/) working in the field of remote sensing. I received my Ph.D. from Technical University of Munich. The topic of my dissertation is “Deep Learning for Building Footrpint Generation from Optical Imagery”. I received my Bachelor degree in Remote Sensing Science and Technology from Wuhan University, China; I obtained my double Master Degree, which are (1) ESPACE, Technical University of Munich, Germany and (2) Photogrammetry and remote sensing, Wuhan University, China. 
 
 <b>Research Interests:</b>
 * Remote sensing image understanding
