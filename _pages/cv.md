@@ -28,12 +28,18 @@ Research Highlights
 ======
 * Development of novel deep learning alogrithms for [building footprint generation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9082125)
 * Development of a novel deep learning-based framework for [undocumented building detection](https://www.mdpi.com/2072-4292/12/21/3537) and  its application in [urban analysis](https://www.sciencedirect.com/science/article/pii/S156984322200111X)
+* Development of a novel deep learning-based framework framework for [rooftop splar potential analysis](https://www.sciencedirect.com/science/article/pii/S1569843222002862)
 * Development of a novel machine learning-based framework for [land cover classification](https://www.mdpi.com/2072-4292/12/4/602)
 * Development of a novel machine learning algorithm for [change detetction](https://www.ingentaconnect.com/contentone/asprs/pers/2017/00000083/00000002/art00013?crawler=true&mimetype=application/pdf)
 
 Work experience
 ======
-* Apr. 2019 - Current: Research associate
+* Nov. 2019 - Current: Postdoctoral researcher
+  * Data Science In Earth Observation, Technical University of Munich, Munich, Germany
+  * Duties included: 
+    + Exploration of earth observation through different case studies and using AI and innovative modeling technologies, “Earth Care” project (TUM Innovation Networks)
+    
+* Apr. 2019 - Nov.2022: Research associate
   * Data Science In Earth Observation, Technical University of Munich, Munich, Germany
   * Duties included: 
     + Development of frameworks for global building footprint generation, “So2Sat” project (European Research Coucil)
