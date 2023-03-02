@@ -34,7 +34,7 @@ Research Highlights
 
 Work experience
 ======
-* Nov. 2019 - Current: Postdoctoral researcher
+* Nov. 2022 - Current: Postdoctoral researcher
   * Data Science In Earth Observation, Technical University of Munich, Munich, Germany
   * Duties included: 
     + Exploration of earth observation through different case studies and using AI and innovative modeling technologies, “Earth Care” project (TUM Innovation Networks)
