@@ -27,6 +27,7 @@ Research Interests
 Research Highlights
 ======
 * Development of novel deep learning alogrithms for [building footprint generation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9082125)
+* Development of a novel deep learning alogrithm for [building height retrieval](https://www.sciencedirect.com/science/article/pii/S1569843223001334)
 * Development of a novel deep learning-based framework for [undocumented building detection](https://www.mdpi.com/2072-4292/12/21/3537) and  its application in [urban analysis](https://www.sciencedirect.com/science/article/pii/S156984322200111X)
 * Development of a novel deep learning-based framework framework for [rooftop solar potential analysis](https://www.sciencedirect.com/science/article/pii/S1569843222002862)
 * Development of a novel machine learning-based framework for [land cover classification](https://www.mdpi.com/2072-4292/12/4/602)
