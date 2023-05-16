@@ -5,7 +5,7 @@ permalink: /publication/2023-paper-jag
 excerpt: 'This paper is about building height retrieval.'
 date: 2022-05-15
 venue: 'International Journal of Applied Earth Observation and Geoinformation'
-paperurl: '(https://doi.org/10.1016/j.jag.2023.103311)'
+paperurl: 'https://doi.org/10.1016/j.jag.2023.103311'
 
 ---
 This paper is about building height retrieval.
