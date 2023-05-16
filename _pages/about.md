@@ -22,12 +22,14 @@ I am a Postdoctoral Researcher in the chair of [Data Science in Earth Observatio
 
 <b>Research Highlights:</b>
 * Development of novel deep learning alogrithms for [building footprint generation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9082125)
+* Development of a novel deep learning alogrithm for [building height retrieval](https://www.sciencedirect.com/science/article/pii/S1569843223001334)
 * Development of a novel deep learning-based framework for [undocumented building detection](https://www.mdpi.com/2072-4292/12/21/3537) and  its application in [urban analysis](https://www.sciencedirect.com/science/article/pii/S156984322200111X)
 * Development of a novel deep learning-based framework framework for [rooftop splar potential analysis](https://www.sciencedirect.com/science/article/pii/S1569843222002862)
 * Development of a novel machine learning-based framework for [land cover classification](https://www.mdpi.com/2072-4292/12/4/602)
 * Development of a novel machine learning algorithm for [change detetction](https://www.ingentaconnect.com/contentone/asprs/pers/2017/00000083/00000002/art00013?crawler=true&mimetype=application/pdf)
 
 ## Selected Journal Publications
+Li, Qingyu, Lichao Mou, Yuansheng Hua, Yilei Shi, Sining Chen, Yao Sun and Xiao Xiang Zhu. "3DCentripetalNet: Building height retrieval from monocular remote sensing imagery." International Journal of Applied Earth Observation and Geoinformation 120 (2023): 103311.[link](https://www.sciencedirect.com/science/article/pii/S1569843223001334)
 
 Li, Qingyu, Sebastian Krapf, Yilei Shi, and Xiao Xiang Zhu. "SolarNet: A convolutional neural network-based framework for rooftop solar potential estimation from aerial imagery." International Journal of Applied Earth Observation and Geoinformation 116 (2023): 103098.[link](https://www.sciencedirect.com/science/article/pii/S1569843222002862)
 
