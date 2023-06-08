@@ -43,8 +43,8 @@ Work experience
 * Apr. 2019 - Nov.2022: Research associate
   * Data Science In Earth Observation, Technical University of Munich, Munich, Germany
   * Duties included: 
-    + Development of frameworks for global building footprint generation, “So2Sat” project (European Research Coucil)
-    + Development of frameworks for undocumented building detection, "Investigation of building cases using AI" project, (Bavarian Agency for Digitization, High-Speed Internet and Surveying
+    + Development of frameworks for global building footprint generation, “So2Sat” project (European Research Council)
+    + Development of frameworks for undocumented building detection, "Investigation of building cases using AI" project, (Bavarian Agency for Digitization, High-Speed Internet and Surveying)
  
 
 * Jun. 2017 - Mar. 2019: Research Assistant
