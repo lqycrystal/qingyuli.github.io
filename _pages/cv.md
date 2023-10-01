@@ -41,7 +41,7 @@ Work experience
     + Exploration of earth observation through different case studies and using AI and innovative modeling technologies, “Earth Care” project (TUM Innovation Networks)
     
 * Apr. 2019 - Nov.2022: Research associate
-  * Data Science In Earth Observation, Technical University of Munich, Munich, Germany
+  * Data Science In Earth Observation, Technical University of Munich, Munich, Germany & German Aerospace Center
   * Duties included: 
     + Development of frameworks for global building footprint generation, “So2Sat” project (European Research Council)
     + Development of frameworks for undocumented building detection, "Investigation of building cases using AI" project, (Bavarian Agency for Digitization, High-Speed Internet and Surveying)
