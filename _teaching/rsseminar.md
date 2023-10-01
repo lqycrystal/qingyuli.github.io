@@ -8,5 +8,5 @@ date: 2019-10-01
 location: "Munich, Germany"
 ---
 * Role: Tutor
-* Topic 1: Instance segmentaion of buildings using deep learning methods (2019/2020 winter semster)
-* Topic 2: Road extraction using deep learning methods (2021/2022 winter semster)
+* Topic 1: Instance segmentation of buildings using deep learning methods (2019/2020 winter semester)
+* Topic 2: Road extraction using deep learning methods (2021/2022 winter semester)
