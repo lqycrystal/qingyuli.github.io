@@ -29,6 +29,8 @@ I am a Postdoctoral Researcher in the chair of [Data Science in Earth Observatio
 * Development of a novel machine learning algorithm for [change detetction](https://www.ingentaconnect.com/contentone/asprs/pers/2017/00000083/00000002/art00013?crawler=true&mimetype=application/pdf)
 
 ## Selected Journal Publications
+Li, Qingyu, Lichao Mou, Yao Sun, Yuansheng Hua, Yilei Shi, and Xiao Xiang Zhu. "A Review of Building Extraction from Remote Sensing Imagery: Geometrical Structures and Semantic Attributes." IEEE Transactions on Geoscience and Remote Sensing 60 (2024): 1-15. [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10458126)
+
 Li, Qingyu, Lichao Mou, Yuansheng Hua, Yilei Shi, Sining Chen, Yao Sun and Xiao Xiang Zhu. "3DCentripetalNet: Building height retrieval from monocular remote sensing imagery." International Journal of Applied Earth Observation and Geoinformation 120 (2023): 103311.[link](https://www.sciencedirect.com/science/article/pii/S1569843223001334)
 
 Li, Qingyu, Sebastian Krapf, Yilei Shi, and Xiao Xiang Zhu. "SolarNet: A convolutional neural network-based framework for rooftop solar potential estimation from aerial imagery." International Journal of Applied Earth Observation and Geoinformation 116 (2023): 103098.[link](https://www.sciencedirect.com/science/article/pii/S1569843222002862)
