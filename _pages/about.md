@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Qingyu Li's personal homepage. Please also refer to [my homepage in Technical University of Munich](https://www.asg.ed.tum.de/sipeo/team/qingyu-li/). 
+This is Qingyu Li's personal homepage. Please also refer to [my homepage at the Technical University of Munich](https://www.asg.ed.tum.de/sipeo/team/qingyu-li/). 
 
 ## A short introduction
 I am a Postdoctoral Researcher in the chair of [Data Science in Earth Observation, Technical University of Munich](https://www.asg.ed.tum.de/sipeo/home/) working in the field of remote sensing. I received my Ph.D. from Technical University of Munich. The topic of my dissertation is “Deep Learning for Building Footrpint Generation from Optical Imagery”. I received my Bachelor degree in Remote Sensing Science and Technology from Wuhan University, China; I obtained my double Master Degree, which are (1) ESPACE, Technical University of Munich, Germany and (2) Photogrammetry and remote sensing, Wuhan University, China. 
@@ -21,14 +21,19 @@ I am a Postdoctoral Researcher in the chair of [Data Science in Earth Observatio
 
 
 <b>Research Highlights:</b>
-* Development of novel deep learning alogrithms for [building footprint generation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9082125)
-* Development of a novel deep learning alogrithm for [building height retrieval](https://www.sciencedirect.com/science/article/pii/S1569843223001334)
+* Development of novel deep learning algorithms for [building footprint generation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9082125)
+* Development of a novel deep learning algorithm for [building height retrieval](https://www.sciencedirect.com/science/article/pii/S1569843223001334)
 * Development of a novel deep learning-based framework for [undocumented building detection](https://www.mdpi.com/2072-4292/12/21/3537) and  its application in [urban analysis](https://www.sciencedirect.com/science/article/pii/S156984322200111X)
-* Development of a novel deep learning-based framework framework for [rooftop solar potential analysis](https://www.sciencedirect.com/science/article/pii/S1569843222002862)
+* Development of novel deep learning-based frameworks for [rooftop solar potential analysis](https://www.sciencedirect.com/science/article/pii/S0306261924012224)
+* Development of a novel framework for [building energy simulation](https://www.sciencedirect.com/science/article/abs/pii/S2210670724005432)
 * Development of a novel machine learning-based framework for [land cover classification](https://www.mdpi.com/2072-4292/12/4/602)
 * Development of a novel machine learning algorithm for [change detetction](https://www.ingentaconnect.com/contentone/asprs/pers/2017/00000083/00000002/art00013?crawler=true&mimetype=application/pdf)
 
 ## Selected Journal Publications
+Li, Qingyu, Sebastian Krapf, Lichao Mou, Yilei Shi, and Xiao Xiang Zhu. "Deep learning-based framework for city-scale rooftop solar potential estimation by considering roof superstructures." Applied Energy 374 (2024): 123839.[link](https://www.sciencedirect.com/science/article/pii/S0306261924012224)
+
+Li, Qingyu, Genyu Xu, and Ziqi Gu. "A novel framework for multi-city building energy simulation: Coupling urban microclimate and energy dynamics at high spatiotemporal resolutions." Sustainable Cities and Society (2023).[link](https://www.sciencedirect.com/science/article/abs/pii/S2210670724005432)
+
 Li, Qingyu, Lichao Mou, Yao Sun, Yuansheng Hua, Yilei Shi, and Xiao Xiang Zhu. "A Review of Building Extraction from Remote Sensing Imagery: Geometrical Structures and Semantic Attributes." IEEE Transactions on Geoscience and Remote Sensing 60 (2024): 1-15. [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10458126)
 
 Li, Qingyu, Lichao Mou, Yuansheng Hua, Yilei Shi, Sining Chen, Yao Sun and Xiao Xiang Zhu. "3DCentripetalNet: Building height retrieval from monocular remote sensing imagery." International Journal of Applied Earth Observation and Geoinformation 120 (2023): 103311.[link](https://www.sciencedirect.com/science/article/pii/S1569843223001334)
