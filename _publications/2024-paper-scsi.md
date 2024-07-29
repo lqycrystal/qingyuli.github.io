@@ -2,7 +2,7 @@
 title: "A novel framework for multi-city building energy simulation: Coupling urban microclimate and energy dynamics at high spatiotemporal resolutions"
 collection: publications
 permalink: /publication/2024-paper-scsi
-excerpt: 'This paper is about building energy simualation.'
+excerpt: 'This paper is about building energy simulation.'
 date: 2024-07-28
 venue: 'Sustainable Cities and Society'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S2210670724005432'
