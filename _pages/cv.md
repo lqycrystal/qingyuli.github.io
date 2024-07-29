@@ -29,7 +29,8 @@ Research Highlights
 * Development of novel deep learning algorithms for [building footprint generation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9082125)
 * Development of a novel deep learning algorithm for [building height retrieval](https://www.sciencedirect.com/science/article/pii/S1569843223001334)
 * Development of a novel deep learning-based framework for [undocumented building detection](https://www.mdpi.com/2072-4292/12/21/3537) and  its application in [urban analysis](https://www.sciencedirect.com/science/article/pii/S156984322200111X)
-* Development of a novel deep learning-based framework for [rooftop solar potential analysis](https://www.sciencedirect.com/science/article/pii/S1569843222002862)
+* Development of novel deep learning-based frameworks for [rooftop solar potential analysis](https://www.sciencedirect.com/science/article/pii/S0306261924012224)
+* Development of a novel framework for [building energy simulation](https://www.sciencedirect.com/science/article/abs/pii/S2210670724005432)
 * Development of a novel machine learning-based framework for [land cover classification](https://www.mdpi.com/2072-4292/12/4/602)
 * Development of a novel machine learning algorithm for [change detetction](https://www.ingentaconnect.com/contentone/asprs/pers/2017/00000083/00000002/art00013?crawler=true&mimetype=application/pdf)
 
