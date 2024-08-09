@@ -32,7 +32,7 @@ I am a Postdoctoral Researcher in the chair of [Data Science in Earth Observatio
 ## Selected Journal Publications
 Li, Qingyu, Sebastian Krapf, Lichao Mou, Yilei Shi, and Xiao Xiang Zhu. "Deep learning-based framework for city-scale rooftop solar potential estimation by considering roof superstructures." Applied Energy 374 (2024): 123839.[link](https://www.sciencedirect.com/science/article/pii/S0306261924012224)
 
-Li, Qingyu, Genyu Xu, and Ziqi Gu. "A novel framework for multi-city building energy simulation: Coupling urban microclimate and energy dynamics at high spatiotemporal resolutions." Sustainable Cities and Society (2024).[link](https://www.sciencedirect.com/science/article/abs/pii/S2210670724005432)
+Li, Qingyu, Genyu Xu, and Ziqi Gu. "A novel framework for multi-city building energy simulation: Coupling urban microclimate and energy dynamics at high spatiotemporal resolutions." Sustainable Cities and Society (2024):105718.[link](https://www.sciencedirect.com/science/article/abs/pii/S2210670724005432)
 
 Li, Qingyu, Lichao Mou, Yao Sun, Yuansheng Hua, Yilei Shi, and Xiao Xiang Zhu. "A Review of Building Extraction from Remote Sensing Imagery: Geometrical Structures and Semantic Attributes." IEEE Transactions on Geoscience and Remote Sensing 60 (2024): 1-15. [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10458126)
 
