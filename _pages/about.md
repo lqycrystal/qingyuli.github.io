@@ -8,18 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-This is Qingyu Li's personal homepage. Please also refer to [my homepage at the Technical University of Munich](https://www.asg.ed.tum.de/sipeo/team/qingyu-li/). 
+This is Qingyu Li's personal homepage.  
 
 ## A short introduction
-I am a Postdoctoral Researcher in the chair of [Data Science in Earth Observation, Technical University of Munich](https://www.asg.ed.tum.de/sipeo/home/) working in the field of remote sensing. I received my Ph.D. from Technical University of Munich. The topic of my dissertation is “Deep Learning for Building Footprint Generation from Optical Imagery.” I received my Bachelor degree in Remote Sensing Science and Technology from Wuhan University, China; I obtained my double Master Degree, which are (1) ESPACE, Technical University of Munich, Germany and (2) Photogrammetry and remote sensing, Wuhan University, China. 
+I am a researcher working in the field of artificial intelligence (AI) and remote sensing. I received my Ph.D. from the Technical University of Munich. The topic of my dissertation is “Deep Learning for Building Footprint Generation from Optical Imagery.” I received my Bachelor's degree in Remote Sensing Science and Technology from Wuhan University, China; I obtained my double Master's Degree, which is (1) ESPACE, Technical University of Munich, Germany, and (2) Photogrammetry and Remote Sensing, Wuhan University, China. 
 
-<r> News </r>
+## News
+I will join the School of Science and Engineering at The Chinese University of Hong Kong (CUHK-Shenzhen) and lead the AI4X lab as an assistant professor in January 2025. The AI4X lab is dedicated to harnessing the power of AI and big data to tackle some of the most pressing issues facing our world today. Our mission is to leverage cutting-edge AI technologies for interdisciplinary research; x includes areas such as Smart City, Energy Management, Climate Change, Disaster Management, etc.
+
+I am actively seeking self-motivated PhD / MPhil students (MPhil-PhD Programme in Computer and Information Engineering in Fall 25) and research assistants. Moreover, postdocs and visiting students are also welcome to apply. Please drop me an email with your CV and transcript through qingyu.li@tum.de if interested.
 
 <b>Research Interests:</b>
-* Remote sensing image understanding
-* Remote sensing application
-* Urban analysis
-* Deep learning algorithms
+* Artificial Intelligence
+* Computer Vision
+* Remote Sensing
+* Geospatial analysis
+
 
 
 <b>Research Highlights:</b>
