@@ -19,10 +19,10 @@ Education
 
 Research Interests
 ======
-* Remote sensing image understanding
-* Remote sensing application
-* Urban analysis
-* Deep learning algorithms
+* Artificial Intelligence
+* Computer Vision
+* Remote Sensing
+* Geospatial analysis
 
 Research Highlights
 ======
