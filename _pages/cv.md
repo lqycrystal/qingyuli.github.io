@@ -36,6 +36,8 @@ Research Highlights
 
 Work experience
 ======
+* Jan. 2025 - Current: Assistant professor
+  * School of Science and Engineering, The Chinese University of Hong Kong, Shenzhen, China
 * Nov. 2022 - Current: Postdoctoral researcher
   * Data Science In Earth Observation, Technical University of Munich, Munich, Germany
   * Duties included: 
