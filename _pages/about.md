@@ -11,17 +11,17 @@ redirect_from:
 This is Qingyu Li's personal homepage.  
 
 ## A short introduction
-I am a researcher working in the field of artificial intelligence (AI) and remote sensing. I received my Ph.D. from the Technical University of Munich. My dissertation topic is “Deep Learning for Building Footprint Generation from Optical Imagery.” I received my Bachelor's degree in Remote Sensing Science and Technology from Wuhan University, China; I obtained my double Master's Degree, which is (1) ESPACE, Technical University of Munich, Germany, and (2) Photogrammetry and Remote Sensing, Wuhan University, China. 
+I am an assistant professor at the School of Science and Engineering of the Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen). I received my Ph.D. from the Technical University of Munich. My dissertation topic is “Deep Learning for Building Footprint Generation from Optical Imagery.” I received my Bachelor's degree in Remote Sensing Science and Technology from Wuhan University, China; I obtained my double Master's Degree, which is (1) ESPACE, Technical University of Munich, Germany, and (2) Photogrammetry and Remote Sensing, Wuhan University, China. 
 
 ## News
-I will join the School of Science and Engineering at The Chinese University of Hong Kong -Shenzhen (CUHK-SZ) and lead the AI4X lab as an assistant professor in January 2025. The AI4X lab is dedicated to harnessing the power of AI and big data to tackle some of the most pressing issues facing our world today. Our mission is to leverage cutting-edge AI technologies for interdisciplinary research; X includes areas such as Smart City, Energy Analysis, Climate Change, Disaster Management, etc.
+Our lab at CUHK-Shenzhen is dedicated to harnessing the power of AI and big data to tackle some of the most pressing issues facing our world today. Our mission is to leverage cutting-edge AI technologies for interdisciplinary research; X includes areas such as Smart City, Energy Analysis, Climate Change, Disaster Management, etc.
 
-I am actively seeking self-motivated PhD / MPhil students (MPhil-PhD Programme in Computer and Information Engineering in Fall 25) and research assistants. Moreover, postdocs and visiting students are also welcome to apply. Please drop me an email with your CV and transcript through <b>qingyu.li@tum.de</b> if interested.
+I am actively seeking self-motivated PhD / MPhil students (MPhil-PhD Programme in Computer and Information Engineering in Fall 25) and research assistants. Moreover, postdocs and visiting students are also welcome to apply. Please drop me an email with your CV and transcript through <b>liqingyu@cuhk.edu.cn</b> if interested.
 
 <b>Research Interests:</b>
 * Artificial Intelligence
-* Computer Vision
 * Remote Sensing
+* Computer Vision
 * Geospatial analysis
 
 
