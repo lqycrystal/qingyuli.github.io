@@ -14,7 +14,7 @@ This is Qingyu Li's personal homepage.
 I am an assistant professor at the School of Science and Engineering of the Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen). I received my Ph.D. from the Technical University of Munich. My dissertation topic is “Deep Learning for Building Footprint Generation from Optical Imagery.” I received my Bachelor's degree in Remote Sensing Science and Technology from Wuhan University, China; I obtained my double Master's Degree, which is (1) ESPACE, Technical University of Munich, Germany, and (2) Photogrammetry and Remote Sensing, Wuhan University, China. 
 
 ## News
-Our lab at CUHK-Shenzhen is dedicated to harnessing the power of AI and big data to tackle some of the most pressing issues facing our world today. Our mission is to leverage cutting-edge AI technologies for interdisciplinary research; X includes areas such as Smart City, Energy Analysis, Climate Change, Disaster Management, etc.
+Our lab at CUHK-Shenzhen is dedicated to harnessing the power of AI and big data to tackle some of the most pressing issues facing our world today. Our mission is to leverage cutting-edge AI technologies for interdisciplinary research, including areas such as Smart City, Energy Analysis, Climate Change, Disaster Management, etc.
 
 I am actively seeking self-motivated PhD / MPhil students (MPhil-PhD Programme in Computer and Information Engineering in Fall 25) and research assistants. Moreover, postdocs and visiting students are also welcome to apply. Please drop me an email with your CV and transcript through <b>liqingyu@cuhk.edu.cn</b> if interested.
 
@@ -31,11 +31,14 @@ I am actively seeking self-motivated PhD / MPhil students (MPhil-PhD Programme i
 * Development of a novel deep learning algorithm for [building height retrieval](https://www.sciencedirect.com/science/article/pii/S1569843223001334)
 * Development of a novel deep learning-based framework for [undocumented building detection](https://www.mdpi.com/2072-4292/12/21/3537) and  its application in [urban analysis](https://www.sciencedirect.com/science/article/pii/S156984322200111X)
 * Development of novel deep learning-based frameworks for [rooftop solar potential analysis](https://www.sciencedirect.com/science/article/pii/S0306261924012224)
+* Development of novel deep learning-based frameworks for [roof greening potential assessment](https://www.sciencedirect.com/science/article/pii/S0264275125000824)
 * Development of a novel framework for [building energy simulation](https://www.sciencedirect.com/science/article/abs/pii/S2210670724005432)
 * Development of a novel machine learning-based framework for [land cover classification](https://www.mdpi.com/2072-4292/12/4/602)
 * Development of a novel machine learning algorithm for [change detetction](https://www.ingentaconnect.com/contentone/asprs/pers/2017/00000083/00000002/art00013?crawler=true&mimetype=application/pdf)
 
 ## Selected Journal Publications
+Li, Qingyu, Hannes Taubenböck , and Xiao Xiang Zhu. "Identification of the potential for roof greening using remote sensing and deep learning." Cities 159 (2025): 105782.[link](https://www.sciencedirect.com/science/article/pii/S0264275125000824)
+
 Li, Qingyu, Sebastian Krapf, Lichao Mou, Yilei Shi, and Xiao Xiang Zhu. "Deep learning-based framework for city-scale rooftop solar potential estimation by considering roof superstructures." Applied Energy 374 (2024): 123839.[link](https://www.sciencedirect.com/science/article/pii/S0306261924012224)
 
 Li, Qingyu, Genyu Xu, and Ziqi Gu. "A novel framework for multi-city building energy simulation: Coupling urban microclimate and energy dynamics at high spatiotemporal resolutions." Sustainable Cities and Society (2024):105718.[link](https://www.sciencedirect.com/science/article/abs/pii/S2210670724005432)
