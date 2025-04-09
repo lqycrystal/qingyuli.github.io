@@ -32,11 +32,14 @@ I am actively seeking self-motivated PhD / MPhil students (MPhil-PhD Programme i
 * Development of a novel deep learning-based framework for [undocumented building detection](https://www.mdpi.com/2072-4292/12/21/3537) and  its application in [urban analysis](https://www.sciencedirect.com/science/article/pii/S156984322200111X)
 * Development of novel deep learning-based frameworks for [rooftop solar potential analysis](https://www.sciencedirect.com/science/article/pii/S0306261924012224)
 * Development of novel deep learning-based frameworks for [roof greening potential assessment](https://www.sciencedirect.com/science/article/pii/S0264275125000824)
+* Development of a novel deep learning algorithm for [building change detetction](https://www.sciencedirect.com/science/article/pii/S1569843225001335)
 * Development of a novel framework for [building energy simulation](https://www.sciencedirect.com/science/article/abs/pii/S2210670724005432)
 * Development of a novel machine learning-based framework for [land cover classification](https://www.mdpi.com/2072-4292/12/4/602)
-* Development of a novel machine learning algorithm for [change detetction](https://www.ingentaconnect.com/contentone/asprs/pers/2017/00000083/00000002/art00013?crawler=true&mimetype=application/pdf)
+
 
 ## Selected Journal Publications
+Li, Qingyu, Lichao Mou, Yilei Shi, and Xiao Xiang Zhu. "BANet: A bilateral attention network for extracting changed buildings between remote sensing imagery and cadastral maps." International Journal of Applied Earth Observation and Geoinformation 139 (2025): 104486. [link](https://www.sciencedirect.com/science/article/pii/S1569843225001335)
+
 Li, Qingyu, Hannes Taubenböck , and Xiao Xiang Zhu. "Identification of the potential for roof greening using remote sensing and deep learning." Cities 159 (2025): 105782.[link](https://www.sciencedirect.com/science/article/pii/S0264275125000824)
 
 Li, Qingyu, Sebastian Krapf, Lichao Mou, Yilei Shi, and Xiao Xiang Zhu. "Deep learning-based framework for city-scale rooftop solar potential estimation by considering roof superstructures." Applied Energy 374 (2024): 123839.[link](https://www.sciencedirect.com/science/article/pii/S0306261924012224)
