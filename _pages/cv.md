@@ -38,7 +38,7 @@ Work experience
 ======
 * Jan. 2025 - Current: Assistant professor
   * School of Science and Engineering, The Chinese University of Hong Kong, Shenzhen, China
-* Nov. 2022 - Current: Postdoctoral researcher
+* Nov. 2022 - Dec.2024: Postdoctoral researcher
   * Data Science In Earth Observation, Technical University of Munich, Munich, Germany
   * Duties included: 
     + “Earth Care” project (TUM Innovation Networks): Exploration of earth observation through different case studies and using AI and innovative modeling technologies 
