@@ -11,12 +11,12 @@ redirect_from:
 This is Qingyu Li's personal homepage.  
 
 ## A short introduction
-I am an assistant professor at the School of Science and Engineering of the Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen). I received my Ph.D. from the Technical University of Munich. My dissertation topic is “Deep Learning for Building Footprint Generation from Optical Imagery.” I received my Bachelor's degree in Remote Sensing Science and Technology from Wuhan University, China; I obtained my double Master's Degree, which is (1) ESPACE, Technical University of Munich, Germany, and (2) Photogrammetry and Remote Sensing, Wuhan University, China. 
+I am an assistant professor at the School of Science and Engineering of the Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen). I received my Ph.D. from the Technical University of Munich. I received my Bachelor's degree in Remote Sensing Science and Technology from Wuhan University, China; I obtained my double Master's Degree, which is (1) ESPACE, Technical University of Munich, Germany, and (2) Photogrammetry and Remote Sensing, Wuhan University, China. 
 
 ## News
 Our lab at CUHK-Shenzhen is dedicated to harnessing the power of AI and big data to tackle some of the most pressing issues facing our world today. Our mission is to leverage cutting-edge AI technologies for interdisciplinary research, including areas such as Smart City, Energy Analysis, Climate Change, Disaster Management, etc.
 
-I am actively seeking self-motivated PhD / MPhil students (MPhil-PhD Programme in Computer and Information Engineering in Fall 25) and research assistants. Moreover, postdocs and visiting students are also welcome to apply. Please drop me an email with your CV and transcript through <b>liqingyu@cuhk.edu.cn</b> if interested.
+I am actively seeking self-motivated PhD / MPhil students (MPhil-PhD Programme in Computer and Information Engineering in Spring 26/ Fall 2026) and research assistants. Moreover, postdocs and visiting students are also welcome to apply. Please drop me an email with your CV and transcript through <b>liqingyu@cuhk.edu.cn</b> if interested.
 
 <b>Research Interests:</b>
 * Artificial Intelligence
@@ -38,7 +38,9 @@ I am actively seeking self-motivated PhD / MPhil students (MPhil-PhD Programme i
 
 
 ## Selected Journal Publications
-Li, Qingyu, Lichao Mou, Yilei Shi, and Xiao Xiang Zhu. "BANet: A bilateral attention network for extracting changed buildings between remote sensing imagery and cadastral maps." International Journal of Applied Earth Observation and Geoinformation 139 (2025): 104486. [link](https://www.sciencedirect.com/science/article/pii/S1569843225001335)
+Li, Qingyu, Genyu Xu, and Ziqi Gu. "Deep learning and remote sensing for scalable building age prediction in urban energy modeling." Energy and Buildings 347 (2025): 116303. [link](https://www.sciencedirect.com/science/article/pii/S0378778825010333)
+
+Li, Qingyu, Lichao Mou, Yilei Shi, and Xiao Xiang Zhu. "BANet: A bilateral attention network for extracting changed buildings between remote sensing imagery and cadastral maps.." International Journal of Applied Earth Observation and Geoinformation 139 (2025): 104486. [link](https://www.sciencedirect.com/science/article/pii/S1569843225001335)
 
 Li, Qingyu, Hannes Taubenböck , and Xiao Xiang Zhu. "Identification of the potential for roof greening using remote sensing and deep learning." Cities 159 (2025): 105782.[link](https://www.sciencedirect.com/science/article/pii/S0264275125000824)
 
