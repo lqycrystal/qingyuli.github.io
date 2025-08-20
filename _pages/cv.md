@@ -20,8 +20,8 @@ Education
 Research Interests
 ======
 * Artificial Intelligence
-* Computer Vision
 * Remote Sensing
+* Computer Vision
 * Geospatial analysis
 
 Research Highlights
@@ -101,9 +101,9 @@ Service and leadership
   + IEEE Transactions on Geoscience and Remote Sensing
   + International Journal of Applied Earth Observation and Geoinformation
   + ISPRS Journal of Photogrammetry and Remote Sensing 
-  + Remote Sensing
-  + Photogrammetric Engineering & Remote Sensing
-  + IEEE Geoscience and Remote Sensing Letters
+  + Remote Sensing of Environment
+  + Applied Energy
+  + Sustainable Cities and Society
 
 Membership
 ======
