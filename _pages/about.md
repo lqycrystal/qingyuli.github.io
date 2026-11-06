@@ -16,7 +16,7 @@ I am an assistant professor at the School of Science and Engineering of the Chin
 ## News
 Our lab at CUHK-Shenzhen is dedicated to harnessing the power of AI and big data to tackle some of the most pressing issues facing our world today. Our mission is to leverage cutting-edge AI technologies for interdisciplinary research, including areas such as Smart City, Energy Analysis, Climate Change, Disaster Management, etc.
 
-I am actively seeking self-motivated PhD / MPhil students (MPhil-PhD Programme in Computer and Information Engineering in Spring 26/ Fall 2026) and research assistants. Moreover, postdocs and visiting students are also welcome to apply. Please drop me an email with your CV and transcript through <b>liqingyu@cuhk.edu.cn</b> if interested.
+I am actively seeking self-motivated PhD / MPhil students (MPhil-PhD Programme in Computer and Information Engineering in Fall 2027) and research assistants. Moreover, postdocs and visiting students are also welcome to apply. Please drop me an email with your CV and transcript through <b>liqingyu@cuhk.edu.cn</b> if interested.
 
 <b>Research Interests:</b>
 * Artificial Intelligence
